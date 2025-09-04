@@ -1,0 +1,5 @@
+{
+  "name": "NanoBanana AI Image Editor",
+  "description": "An intuitive web application that leverages Google's Gemini API (NanoBanana model) to edit images based on user-provided base images and text prompts. Users can upload up to 10 source images to guide the AI in generating a new, creative image.",
+  "requestFramePermissions": []
+}
